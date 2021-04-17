@@ -1,0 +1,4 @@
+algopy==0.5.7
+numdifftools==0.9.39
+numpy==1.18.2
+scipy==1.4.1
